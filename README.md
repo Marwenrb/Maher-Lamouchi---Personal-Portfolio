@@ -1,29 +1,64 @@
-# On-Scroll Pixelated Image Loading Effect
+# Maher Lamouchi - Personal Portfolio
 
-A recreation of the on-scroll pixelated image loading effect seen on [Felicity Ingram](https://www.felicityingram.com/)'s website.
+A premium, interactive personal portfolio website for Maher Lamouchi featuring advanced UI/UX design, smooth transitions, and multilanguage support.
 
-![Onscroll pixel loading](https://tympanus.net/codrops/wp-content/uploads/2023/05/pixelloading.jpg)
+![Maher Lamouchi Portfolio](img/maher.1.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+## Features
 
-[Demo](http://tympanus.net/Development/ImagePixelLoading/)
+- **Premium Design** - Modern, sleek interface with carefully crafted animations and transitions
+- **Multilingual Support** - Full support for German, English, and Arabic, including RTL layout
+- **Innovative Language Selector** - Custom-designed intuitive language toggle with smooth animations
+- **Responsive Layout** - Fully responsive design that works on all device sizes
+- **Scroll-Triggered Animations** - Content reveals as user scrolls through the page
+- **Back to Top Feature** - Advanced back-to-top button with scroll progress indicator
+- **Performance Optimized** - Fast loading times and smooth scrolling experience
 
-## Installation
+## Technologies
 
-Run this demo on a [local server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/set_up_a_local_testing_server).
+- HTML5, CSS3, JavaScript (ES6+)
+- GSAP for advanced animations
+- Lenis for smooth scrolling
+- Custom-built language switching system
+- CSS Variables for theme flexibility
 
-## Credits
+## Sections
 
-- Images generated with [Midjourney](https://midjourney.com)
+- About Me
+- Skills
+- Projects
+- Experience
+- Education
+- Contact
+- Vision
+- Future
 
-## Misc
+## Development Team
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
+### Original Development
+- **Maher Lamouchi** - Content and Concept
+
+### Enhancement and UI/UX Design
+- **Marwen Rabai** - Premium UI/UX Design & Frontend Development
+  - [Portfolio](https://marwenrabai.mystrikingly.com/)
+  - Email: rbnarwenrba@gmail.com
+  - GitHub: [@Marwenrb](https://github.com/Marwenrb)
+
+## Setup
+
+1. Clone the repository
+   ```
+   git clone https://github.com/Marwenrb/Maher-Lamouchi---Personal-Portfolio.git
+   ```
+2. Open `index.html` in your browser
 
 ## License
-[MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+All rights reserved. This project and its contents are not open for redistribution or commercial use without permission.
+
+---
+
+Made with ❤ by Marwen Rabai
 
 
 

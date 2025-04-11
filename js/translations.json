@@ -1,0 +1,161 @@
+{
+  "de": {
+    "title": "Portfolio von Maher Lamouchi",
+    "description": "Professionelles Portfolio von Maher Lamouchi, einem tunesischen Experten mit Sitz in Deutschland.",
+    "keywords": "Maher Lamouchi, Portfolio, Tunesien, Deutschland, Professionell",
+    "header": "Maher Lamouchi - Persönliches Portfolio",
+    "backToArticle": "Zurück zum Artikel",
+    "previousDemo": "Vorherige Demo",
+    "navigation": {
+      "home": "Home",
+      "about": "Über mich",
+      "portfolio": "Portfolio",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "copyright": "© 2023 Maher Lamouchi. Alle Rechte vorbehalten.",
+      "madeWith": "Made with",
+      "by": "by"
+    },
+    "sections": {
+      "aboutMe": {
+        "title": "Über Mich",
+        "content": "Geboren in Tunesien und derzeit in Deutschland lebend, bringe ich eine vielfältige kulturelle Perspektive und ein breites Spektrum an Fachkenntnissen mit. Meine Leidenschaft für Innovation und mein Engagement für Exzellenz haben meine berufliche Reise geprägt."
+      },
+      "skills": {
+        "title": "Fähigkeiten",
+        "content": "Mit umfangreicher Erfahrung in meinem Fachgebiet habe ich eine solide Grundlage an technischen und interpersonellen Fähigkeiten entwickelt. Mein Ansatz zeichnet sich durch Präzision, Kreativität und die Fähigkeit aus, komplexe Probleme zu lösen."
+      },
+      "projects": {
+        "title": "Projekte",
+        "content": "Ich habe an verschiedenen Projekten gearbeitet, die meine vielseitigen Fähigkeiten und meinen einzigartigen Ansatz demonstrieren. Jedes Projekt spiegelt mein Engagement für Qualität und Innovation wider und liefert Lösungen, die über die Erwartungen hinausgehen."
+      },
+      "experience": {
+        "title": "Erfahrung",
+        "content": "Meine berufliche Laufbahn umfasst verschiedene Rollen, in denen ich meine Fähigkeiten verfeinert und wertvolle Einblicke gewonnen habe. Durch die Zusammenarbeit mit unterschiedlichen Teams und Herausforderungen habe ich ein tiefes Verständnis für mein Fachgebiet entwickelt."
+      },
+      "education": {
+        "title": "Bildung",
+        "content": "Meine akademische Reise hat mir ein solides Fundament an Wissen und analytischen Fähigkeiten vermittelt. Ich strebe kontinuierlich danach, zu lernen und mich weiterzuentwickeln, indem ich neue Technologien und Methoden erkunde."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Ich freue mich über neue Verbindungen und Möglichkeiten zur Zusammenarbeit. Zögern Sie nicht, mich zu kontaktieren, um mehr über meine Arbeit zu erfahren oder potenzielle Projekte zu besprechen."
+      },
+      "vision": {
+        "title": "Vision",
+        "content": "Meine Vision ist es, innovative Lösungen zu schaffen, die einen positiven Einfluss auf die Gesellschaft haben. Ich strebe danach, Grenzen zu überschreiten und neue Möglichkeiten zu erkunden, die zur Entwicklung meines Fachgebiets beitragen."
+      },
+      "future": {
+        "title": "Zukunft",
+        "content": "Ich blicke mit Begeisterung auf zukünftige Projekte und Herausforderungen. Durch kontinuierliches Lernen und Anpassen an neue Technologien und Trends bleibe ich an der Spitze meines Feldes und bereit für die nächste Innovation."
+      }
+    }
+  },
+  "en": {
+    "title": "Maher Lamouchi's Portfolio",
+    "description": "Professional portfolio of Maher Lamouchi, a Tunisian expert based in Germany.",
+    "keywords": "Maher Lamouchi, portfolio, Tunisia, Germany, professional",
+    "header": "Maher Lamouchi - Personal Portfolio",
+    "backToArticle": "Back to the article",
+    "previousDemo": "Previous demo",
+    "navigation": {
+      "home": "Home",
+      "about": "About me",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "footer": {
+      "copyright": "© 2023 Maher Lamouchi. All rights reserved.",
+      "madeWith": "Made with",
+      "by": "by"
+    },
+    "sections": {
+      "aboutMe": {
+        "title": "About Me",
+        "content": "Born in Tunisia and currently residing in Germany, I bring a diverse cultural perspective and a broad range of expertise. My passion for innovation and commitment to excellence have shaped my professional journey."
+      },
+      "skills": {
+        "title": "Skills",
+        "content": "With extensive experience in my field, I have developed a solid foundation of technical and interpersonal skills. My approach is characterized by precision, creativity, and the ability to solve complex problems."
+      },
+      "projects": {
+        "title": "Projects",
+        "content": "I have worked on various projects that demonstrate my versatile skills and unique approach. Each project reflects my commitment to quality and innovation, delivering solutions that go beyond expectations."
+      },
+      "experience": {
+        "title": "Experience",
+        "content": "My professional career spans various roles where I have refined my skills and gained valuable insights. Through collaborating with diverse teams and challenges, I have developed a deep understanding of my field."
+      },
+      "education": {
+        "title": "Education",
+        "content": "My academic journey has provided me with a solid foundation of knowledge and analytical skills. I continuously strive to learn and grow by exploring new technologies and methodologies."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "I welcome new connections and opportunities for collaboration. Feel free to reach out to learn more about my work or discuss potential projects."
+      },
+      "vision": {
+        "title": "Vision",
+        "content": "My vision is to create innovative solutions that have a positive impact on society. I strive to push boundaries and explore new possibilities that contribute to the advancement of my field."
+      },
+      "future": {
+        "title": "Future",
+        "content": "I look forward to future projects and challenges with enthusiasm. By continuously learning and adapting to new technologies and trends, I stay at the forefront of my field and ready for the next innovation."
+      }
+    }
+  },
+  "ar": {
+    "title": "معرض أعمال ماهر العموشي",
+    "description": "المعرض المهني لماهر العموشي، خبير تونسي مقيم في ألمانيا.",
+    "keywords": "ماهر العموشي، معرض أعمال، تونس، ألمانيا، احترافي",
+    "header": "ماهر العموشي - معرض الأعمال الشخصي",
+    "backToArticle": "العودة إلى المقال",
+    "previousDemo": "العرض السابق",
+    "navigation": {
+      "home": "الرئيسية",
+      "about": "نبذة عني",
+      "portfolio": "أعمالي",
+      "contact": "اتصل بي"
+    },
+    "footer": {
+      "copyright": "© 2023 ماهر العموشي. جميع الحقوق محفوظة.",
+      "madeWith": "صنع بـ",
+      "by": "بواسطة"
+    },
+    "sections": {
+      "aboutMe": {
+        "title": "نبذة عني",
+        "content": "ولدت في تونس وأقيم حاليًا في ألمانيا، أحمل منظورًا ثقافيًا متنوعًا ومجموعة واسعة من الخبرات. شغفي بالابتكار والتزامي بالتميز شكلا رحلتي المهنية."
+      },
+      "skills": {
+        "title": "المهارات",
+        "content": "مع خبرة واسعة في مجالي، طورت أساسًا متينًا من المهارات التقنية والشخصية. يتميز نهجي بالدقة والإبداع والقدرة على حل المشكلات المعقدة."
+      },
+      "projects": {
+        "title": "المشاريع",
+        "content": "عملت على مشاريع متنوعة تظهر مهاراتي المتنوعة ونهجي الفريد. يعكس كل مشروع التزامي بالجودة والابتكار، وتقديم حلول تتجاوز التوقعات."
+      },
+      "experience": {
+        "title": "الخبرة",
+        "content": "تمتد مسيرتي المهنية عبر أدوار مختلفة حيث صقلت مهاراتي واكتسبت رؤى قيمة. من خلال التعاون مع فرق وتحديات متنوعة، طورت فهمًا عميقًا لمجالي."
+      },
+      "education": {
+        "title": "التعليم",
+        "content": "زودتني رحلتي الأكاديمية بأساس متين من المعرفة والمهارات التحليلية. أسعى باستمرار للتعلم والنمو من خلال استكشاف التقنيات والمنهجيات الجديدة."
+      },
+      "contact": {
+        "title": "اتصل بي",
+        "content": "أرحب بالتواصل الجديد وفرص التعاون. لا تتردد في التواصل معي لمعرفة المزيد عن عملي أو مناقشة المشاريع المحتملة."
+      },
+      "vision": {
+        "title": "الرؤية",
+        "content": "رؤيتي هي خلق حلول مبتكرة لها تأثير إيجابي على المجتمع. أسعى لتجاوز الحدود واستكشاف إمكانيات جديدة تساهم في تقدم مجالي."
+      },
+      "future": {
+        "title": "المستقبل",
+        "content": "أتطلع إلى المشاريع والتحديات المستقبلية بحماس. من خلال التعلم المستمر والتكيف مع التقنيات والاتجاهات الجديدة، أبقى في طليعة مجالي ومستعدًا للابتكار التالي."
+      }
+    }
+  }
+} 

@@ -1,0 +1,60 @@
+/* RTL Support for Arabic language */
+
+/* General direction and text alignment */
+.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Frame layout direction */
+.rtl .frame__title {
+    flex-direction: row-reverse;
+}
+
+/* Language switcher positioning */
+.rtl .lang-switcher {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+/* Content section adjustments */
+.rtl .content__inner {
+    text-align: right;
+}
+
+/* Any specific adjustments for headings in RTL mode */
+.rtl h2 {
+    direction: rtl;
+}
+
+/* Ensure SVGs and decorative elements appear correctly */
+.rtl .deco {
+    transform: scaleX(-1);
+}
+
+/* Ensure scroll direction works correctly */
+.rtl .lenis {
+    direction: rtl;
+}
+
+/* Adjust padding and margins where needed */
+.rtl .content__inner {
+    padding-right: 0;
+    padding-left: 2rem;
+}
+
+/* Fix any button or interactive element alignments */
+.rtl button,
+.rtl .frame__prev {
+    direction: rtl;
+}
+
+/* Ensure any background patterns or gradients work correctly */
+.rtl .canvas-wrap {
+    background-position: right center;
+}
+
+/* Make sure any animations run in the correct direction */
+.rtl .oh__inner {
+    transform-origin: right;
+} 
